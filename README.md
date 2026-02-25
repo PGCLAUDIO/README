@@ -101,7 +101,7 @@ Ejecutivo Senior con más de 25 años liderando áreas clave de planificación e
   2025 Oviedo, España
   Big Data. - Federacion Asturiana de Empresas (FADE).
   
-  2025 Inteligencia Artificial viedo, España
+  2025 Oviedo, España
   Inteligencia Artificial. - Instituto de Estudios Superiores de Administración (IESA).
   
   2011 Maracaibo, Venezuela
