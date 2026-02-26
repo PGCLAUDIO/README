@@ -132,7 +132,25 @@ Ejecutivo Senior con más de 25 años liderando áreas clave de planificación e
   Español: Nativo | Ingles: Intermedio.
 
 
+# Hola, soy María 👋
 
+Analista de datos en formación con pasión por encontrar patrones en el caos numérico.
+
+## 🔧 Stack técnico
+- Python, SQL
+- Google Sheets, Excel
+- Git & GitHub
+
+## 📚 Aprendiendo ahora
+- Pandas y NumPy
+- Visualización con Tableau
+- Estadística aplicada
+
+## 📫 Contacto
+- LinkedIn: [linkedin.com/in/maria](URL)
+- Email: maria@ejemplo.com
+
+*"Los datos son el nuevo petróleo, pero solo si sabes refinarlos."*
 
 
 
